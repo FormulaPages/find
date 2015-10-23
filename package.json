@@ -1,0 +1,22 @@
+{
+  "name": "formula-find",
+  "version": "1.0.0",
+  "description": "FIND function",
+  "main": "FIND.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FormulaPages/find.git"
+  },
+  "author": "Peter Moresi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FormulaPages/find/issues"
+  },
+  "homepage": "https://github.com/FormulaPages/find#readme",
+  "dependencies": {
+    "tape": "^4.2.2"
+  }
+}
